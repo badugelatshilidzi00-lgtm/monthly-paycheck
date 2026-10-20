@@ -14,8 +14,6 @@ It is part of my journey in developing practical programming skills and applying
 - Performs salary-related calculations.
 - Displays results in the console.
 
-*Update these features to match the actual implementation.*
-
 ## 🛠️ Technologies Used
 
 - C++
@@ -38,7 +36,6 @@ This project provides practice with:
 - Arithmetic operations.
 - Applying programming logic to salary calculations.
 
-*Keep only the concepts used in the actual code.*
 
 ## 👩‍💻 Author
 
